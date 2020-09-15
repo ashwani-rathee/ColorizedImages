@@ -9,7 +9,7 @@ section
  width: 100%;
  height: 100vh;
  overflow:hidden;
- background: url(img1.jpg);
+ background: url(Photo-1.png);
  }
 #layer
 {
@@ -18,6 +18,6 @@ section
  left: 0;
  width: 100%;
  height: 100vh;
- background: url(img2.jpg);
+ background: url(Result-1.png);
  border-left: 2px solid #000;
 }
